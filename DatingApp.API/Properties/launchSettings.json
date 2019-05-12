@@ -12,14 +12,12 @@
     "IIS Express": {
       "commandName": "Project",
       "launchBrowser": true,
-      //"launchUrl": "api/values",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
     },
     "DatingApp.API": {
       "commandName": "Project",
-      //"launchUrl": "api/values",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       },
